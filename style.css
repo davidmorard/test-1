@@ -24,3 +24,6 @@ h1 {
 	border-radius: 8px;
 	background: var(--M3-sys-light-secondary-container, #D2E5F1);
 }
+.center {
+	text-align: center;
+}
